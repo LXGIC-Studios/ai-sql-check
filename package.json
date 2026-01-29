@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "bin": { "ai-sql-check": "dist/cli.js" },
   "scripts": { "build": "tsc" },
-  "keywords": ["sql-injection","security","ai","cli","vulnerability-scanner"],
+  "keywords": ["ai", "openai", "gpt", "sql-injection", "sqli", "security", "vulnerability-scanner", "database-security", "devsecops", "developer-tools", "cli", "automation", "typescript", "nodejs", "owasp"],
   "license": "MIT",
   "dependencies": { "commander": "^12.1.0", "openai": "^4.73.0", "ora": "^5.4.1", "glob": "^10.3.0" },
   "devDependencies": { "typescript": "^5.6.0", "@types/node": "^22.0.0" },
